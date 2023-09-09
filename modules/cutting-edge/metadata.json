@@ -1,0 +1,11 @@
+{
+    "homepage": "https://gitlab.com/arbon/cutting-edge",
+    "maintainers": [],
+    "repository": [
+        "github:abseil/abseil-cpp"
+    ],
+    "versions": [
+        "latest",
+    ],
+    "yanked_versions": {}
+}
