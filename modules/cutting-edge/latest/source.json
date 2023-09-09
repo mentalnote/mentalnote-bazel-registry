@@ -1,4 +1,4 @@
 {
-    "type": "local_path",
-    "path": "."
+    "integrity": "sha384-1qJoF4CmZ1lDR/scKt/wzYQrEJsekA5tPvfAD7tjesqb8WAX717eU3h6y8A28AP5",
+    "url": "https://gitlab.com/arbon/CuttingEdge/-/archive/master/CuttingEdge-master.tar.gz"
 }
